@@ -203,8 +203,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abdullah Javed**
 - GitHub: [@abdullahjave](https://github.com/abdullahjave)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: abdjaved634@gmail.com
+- LinkedIn:[https://www.linkedin.com/in/abdullah-javed-a1b316310/](https://www.linkedin.com/in/abdullah-javed-a1b316310/)
 
 ## 🔮 Future Enhancements
 
