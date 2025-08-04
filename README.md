@@ -199,12 +199,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit**: For the amazing web app framework
 - **Scikit-learn**: For machine learning algorithms
 
+
+## Demo
+
+<img width="1911" height="931" alt="image" src="https://github.com/user-attachments/assets/30f3b608-51fd-4c43-ae38-89756e9466e5" />
+
+
 ## 📞 Contact
 
 **Abdullah Javed**
 - GitHub: [@abdullahjave](https://github.com/abdullahjave)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: abdjaved634@gmail.com
+- LinkedIn:[https://www.linkedin.com/in/abdullah-javed-a1b316310/](https://www.linkedin.com/in/abdullah-javed-a1b316310/)
 
 ## 🔮 Future Enhancements
 
